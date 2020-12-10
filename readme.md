@@ -1,6 +1,6 @@
 === CryptocurrencyCheckout WooCommerce Gateway ===
 
- - Contributors: Ratstang, CryptocurrencyCheckout
+ - Contributors: Ratstang, CryptocurrencyCheckout, [BlueAngelHost](https://www.blueangelhost.com/)
  - Tags: woocommerce, payment gateway, gateway, accept cryptocurrency, crypto, bitcoin, litecoin, ethereum, dash, more.
  - [Donate link](https://cryptocurrencycheckout.com/donate/CryptoCheckout)
  - Requires WooCommerce at least: 2.1
